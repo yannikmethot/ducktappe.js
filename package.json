@@ -1,0 +1,16 @@
+{
+  "name": "ducktape",
+  "version": "0.0.1",
+  "description": "A proxy server for modifying/patching live sites.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "http-proxy": "~0.8.7",
+    "request": "~2.14.0",
+    "jsdom": "~0.5.1",
+    "director": "~1.1.10"
+  }
+}
