@@ -1,8 +1,8 @@
 {
-  "name": "ducktape",
-  "version": "0.0.1",
+  "name": "ducktape.js",
+  "version": "0.1.0",
   "description": "A proxy server for modifying/patching live sites.",
-  "main": "app.js",
+  "main": "ducktape.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
