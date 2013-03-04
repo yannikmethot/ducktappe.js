@@ -102,7 +102,8 @@ You can also handle the request and response without any helpers:
 # Credits and License
 
 Mathieu Sylvain, http://nurun.com
-BDS!
+
+Released under BSD!
 
 
 
